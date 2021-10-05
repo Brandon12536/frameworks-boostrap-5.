@@ -1,0 +1,16 @@
+body{
+    background-color:blanchedalmond;
+}
+.navbar-custom-color
+{
+    background-color: #000000;
+    color:rgb(255, 7, 102);
+}
+.icon-custom
+{
+    color: rgb(243, 60, 40);
+    font-size: 1rem;
+}
+footer {
+    background: #212529;
+  }
